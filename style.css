@@ -663,8 +663,7 @@ button:focus {
 }
 
 .mu-event-timeline ul li .mu-single-event img {
-	height: 80px;
-	width: 80px;
+	width: 24%;
 	float: left;
 	border-radius: 50%;
 	margin-right: 15px;
